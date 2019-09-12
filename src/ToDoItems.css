@@ -1,0 +1,7 @@
+div .yes {
+  text-decoration-line: line-through;
+  color: red;
+}
+div .no {
+  text-decoration-line: none;
+}
